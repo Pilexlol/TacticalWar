@@ -1,0 +1,60 @@
+﻿  pch.cpp
+  AnimationManager.cpp
+c:\users\plprieux\desktop\tacticalwar-master\animationsandsoundlib\animationmanager.cpp(15): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  BattleActionToAnimation.cpp
+  BattleEndAction.cpp
+  ChangeTurnAction.cpp
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(268): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(269): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(283): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(284): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  CharacterDieAction.cpp
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(268): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(269): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(283): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(284): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  CharacterMoveAction.cpp
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(268): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(269): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(283): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(284): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  CharacterView.cpp
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(268): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(269): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(283): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(284): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\animationsandsoundlib\characterview.cpp(77): warning C4244: 'initialisation' : conversion de 'sf::Int64' en 'int', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\animationsandsoundlib\characterview.cpp(105): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\animationsandsoundlib\characterview.cpp(74): warning C4101: 'testOffsetX' : variable locale non référencée
+c:\users\plprieux\desktop\tacticalwar-master\animationsandsoundlib\characterview.cpp(74): warning C4101: 'testOffsetY' : variable locale non référencée
+c:\users\plprieux\desktop\tacticalwar-master\animationsandsoundlib\characterview.cpp(147): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\animationsandsoundlib\characterview.cpp(150): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  ClientDisconnected.cpp
+  ClientReconnected.cpp
+  IActionAnimationEventListener.cpp
+  IScreenActionCallback.cpp
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(268): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(269): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(283): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(284): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  LaunchSpellAction.cpp
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(268): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(269): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(283): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\plprieux\desktop\tacticalwar-master\tacticalwarcommonlib\basecharactermodel.h(284): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  NoDurationAction.cpp
+  PlaySound.cpp
+  TakeDamage.cpp
+  TeleportAction.cpp
+  Génération de code en cours...
+TakeDamage.obj : warning LNK4221: Ce fichier objet ne dÚfinit pas de symboles publics jusqu'ici non dÚfinis. Par consÚquent, il ne sera utilisÚ par aucune opÚration de lien utilisant cette bibliothÞque
+LaunchSpellAction.obj : warning LNK4221: Ce fichier objet ne dÚfinit pas de symboles publics jusqu'ici non dÚfinis. Par consÚquent, il ne sera utilisÚ par aucune opÚration de lien utilisant cette bibliothÞque
+IScreenActionCallback.obj : warning LNK4221: Ce fichier objet ne dÚfinit pas de symboles publics jusqu'ici non dÚfinis. Par consÚquent, il ne sera utilisÚ par aucune opÚration de lien utilisant cette bibliothÞque
+IActionAnimationEventListener.obj : warning LNK4221: Ce fichier objet ne dÚfinit pas de symboles publics jusqu'ici non dÚfinis. Par consÚquent, il ne sera utilisÚ par aucune opÚration de lien utilisant cette bibliothÞque
+ClientReconnected.obj : warning LNK4221: Ce fichier objet ne dÚfinit pas de symboles publics jusqu'ici non dÚfinis. Par consÚquent, il ne sera utilisÚ par aucune opÚration de lien utilisant cette bibliothÞque
+ClientDisconnected.obj : warning LNK4221: Ce fichier objet ne dÚfinit pas de symboles publics jusqu'ici non dÚfinis. Par consÚquent, il ne sera utilisÚ par aucune opÚration de lien utilisant cette bibliothÞque
+CharacterMoveAction.obj : warning LNK4221: Ce fichier objet ne dÚfinit pas de symboles publics jusqu'ici non dÚfinis. Par consÚquent, il ne sera utilisÚ par aucune opÚration de lien utilisant cette bibliothÞque
+CharacterDieAction.obj : warning LNK4221: Ce fichier objet ne dÚfinit pas de symboles publics jusqu'ici non dÚfinis. Par consÚquent, il ne sera utilisÚ par aucune opÚration de lien utilisant cette bibliothÞque
+ChangeTurnAction.obj : warning LNK4221: Ce fichier objet ne dÚfinit pas de symboles publics jusqu'ici non dÚfinis. Par consÚquent, il ne sera utilisÚ par aucune opÚration de lien utilisant cette bibliothÞque
+BattleEndAction.obj : warning LNK4221: Ce fichier objet ne dÚfinit pas de symboles publics jusqu'ici non dÚfinis. Par consÚquent, il ne sera utilisÚ par aucune opÚration de lien utilisant cette bibliothÞque
+  AnimationsAndSoundLib.vcxproj -> C:\Users\PLprieux\Desktop\TacticalWar-master\x64\Debug\AnimationsAndSoundLib.lib
